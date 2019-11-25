@@ -1,0 +1,29 @@
+#top {
+    text-align: center;
+    margin: 3px 5px
+}
+
+#name {
+    margin: 0 10px;
+    font-weight: bold
+}
+
+#table {
+    margin: 10px auto
+}
+
+th {
+    padding: 0 5px
+}
+
+#rejected {
+    color: #f74e48
+}
+
+#accepted {
+    color: #6bff90
+}
+
+#ghosted {
+    color: #5da8f5
+}
